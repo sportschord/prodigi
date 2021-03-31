@@ -1,0 +1,2231 @@
+{
+    "count": 251,
+    "results": [
+        {
+            "country_id": 55,
+            "iso_country_code": "AF",
+            "world_bank_country_code": "AFG",
+            "name": "Afghanistan",
+            "slug": "afghanistan",
+            "lat": 33.780000000000001136868377216160297393798828125,
+            "lon": 66.1700000000000017053025658242404460906982421875
+        },
+        {
+            "country_id": 306,
+            "iso_country_code": "AX",
+            "world_bank_country_code": "ALA",
+            "name": "Åland Islands",
+            "slug": "aland-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 57,
+            "iso_country_code": "AL",
+            "world_bank_country_code": "ALB",
+            "name": "Albania",
+            "slug": "albania",
+            "lat": 41.1400000000000005684341886080801486968994140625,
+            "lon": 20.260000000000001563194018672220408916473388671875
+        },
+        {
+            "country_id": 95,
+            "iso_country_code": "DZ",
+            "world_bank_country_code": "DZA",
+            "name": "Algeria",
+            "slug": "algeria",
+            "lat": 28.1400000000000005684341886080801486968994140625,
+            "lon": 2.8300000000000000710542735760100185871124267578125
+        },
+        {
+            "country_id": 250,
+            "iso_country_code": "AS",
+            "world_bank_country_code": "ASM",
+            "name": "American Samoa",
+            "slug": "american-samoa",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 228,
+            "iso_country_code": "AD",
+            "world_bank_country_code": "AND",
+            "name": "Andorra",
+            "slug": "andorra",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 56,
+            "iso_country_code": "AO",
+            "world_bank_country_code": "AGO",
+            "name": "Angola",
+            "slug": "angola",
+            "lat": -12.3599999999999994315658113919198513031005859375,
+            "lon": 17.739999999999998436805981327779591083526611328125
+        },
+        {
+            "country_id": 251,
+            "iso_country_code": "AI",
+            "world_bank_country_code": "AIA",
+            "name": "Anguilla",
+            "slug": "anguilla",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 10,
+            "iso_country_code": "AQ",
+            "world_bank_country_code": "ATA",
+            "name": "Antarctica",
+            "slug": "antarctica",
+            "lat": -78.158559999999994261088431812822818756103515625,
+            "lon": 16.406259999999999621422830387018620967864990234375
+        },
+        {
+            "country_id": 252,
+            "iso_country_code": "AG",
+            "world_bank_country_code": "ATG",
+            "name": "Antigua and Barbuda",
+            "slug": "antigua-and-barbuda",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 59,
+            "iso_country_code": "AR",
+            "world_bank_country_code": "ARG",
+            "name": "Argentina",
+            "slug": "argentina",
+            "lat": -35.3900000000000005684341886080801486968994140625,
+            "lon": -64.9200000000000017053025658242404460906982421875
+        },
+        {
+            "country_id": 60,
+            "iso_country_code": "AM",
+            "world_bank_country_code": "ARM",
+            "name": "Armenia",
+            "slug": "armenia",
+            "lat": 40.31000000000000227373675443232059478759765625,
+            "lon": 45.219999999999998863131622783839702606201171875
+        },
+        {
+            "country_id": 253,
+            "iso_country_code": "AW",
+            "world_bank_country_code": "ABW",
+            "name": "Aruba",
+            "slug": "aruba",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 61,
+            "iso_country_code": "AU",
+            "world_bank_country_code": "AUS",
+            "name": "Australia",
+            "slug": "australia",
+            "lat": -25.85000000000000142108547152020037174224853515625,
+            "lon": 134.6100000000000136424205265939235687255859375
+        },
+        {
+            "country_id": 62,
+            "iso_country_code": "AT",
+            "world_bank_country_code": "AUT",
+            "name": "Austria",
+            "slug": "austria",
+            "lat": 47.60000000000000142108547152020037174224853515625,
+            "lon": 14.32000000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 63,
+            "iso_country_code": "AZ",
+            "world_bank_country_code": "AZE",
+            "name": "Azerbaijan",
+            "slug": "azerbaijan",
+            "lat": 40.27000000000000312638803734444081783294677734375,
+            "lon": 47.82000000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 229,
+            "iso_country_code": "BS",
+            "world_bank_country_code": "BHS",
+            "name": "Bahamas",
+            "slug": "bahamas",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 232,
+            "iso_country_code": "BH",
+            "world_bank_country_code": "BHR",
+            "name": "Bahrain",
+            "slug": "bahrain",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 68,
+            "iso_country_code": "BD",
+            "world_bank_country_code": "BGD",
+            "name": "Bangladesh",
+            "slug": "bangladesh",
+            "lat": 23.809999999999998721023075631819665431976318359375,
+            "lon": 90.4200000000000017053025658242404460906982421875
+        },
+        {
+            "country_id": 237,
+            "iso_country_code": "BB",
+            "world_bank_country_code": "BRB",
+            "name": "Barbados",
+            "slug": "barbados",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 71,
+            "iso_country_code": "BY",
+            "world_bank_country_code": "BLR",
+            "name": "Belarus",
+            "slug": "belarus",
+            "lat": 53.5499999999999971578290569595992565155029296875,
+            "lon": 28.230000000000000426325641456060111522674560546875
+        },
+        {
+            "country_id": 65,
+            "iso_country_code": "BE",
+            "world_bank_country_code": "BEL",
+            "name": "Belgium",
+            "slug": "belgium",
+            "lat": 50.659999999999996589394868351519107818603515625,
+            "lon": 4.8300000000000000710542735760100185871124267578125
+        },
+        {
+            "country_id": 72,
+            "iso_country_code": "BZ",
+            "world_bank_country_code": "BLZ",
+            "name": "Belize",
+            "slug": "belize",
+            "lat": 17.219999999999998863131622783839702606201171875,
+            "lon": -88.530000000000001136868377216160297393798828125
+        },
+        {
+            "country_id": 66,
+            "iso_country_code": "BJ",
+            "world_bank_country_code": "BEN",
+            "name": "Benin",
+            "slug": "benin",
+            "lat": 9.6199999999999992184029906638897955417633056640625,
+            "lon": 2.54999999999999982236431605997495353221893310546875
+        },
+        {
+            "country_id": 225,
+            "iso_country_code": "BM",
+            "world_bank_country_code": "BMU",
+            "name": "Bermuda",
+            "slug": "bermuda",
+            "lat": 32.39999999999999857891452847979962825775146484375,
+            "lon": 64.7000000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 76,
+            "iso_country_code": "BT",
+            "world_bank_country_code": "BTN",
+            "name": "Bhutan",
+            "slug": "bhutan",
+            "lat": 27.39999999999999857891452847979962825775146484375,
+            "lon": 90.5799999999999982946974341757595539093017578125
+        },
+        {
+            "country_id": 73,
+            "iso_country_code": "BO",
+            "world_bank_country_code": "BOL",
+            "name": "Bolivia",
+            "slug": "bolivia",
+            "lat": -16.730000000000000426325641456060111522674560546875,
+            "lon": -64.43999999999999772626324556767940521240234375
+        },
+        {
+            "country_id": 535,
+            "iso_country_code": "BQ",
+            "world_bank_country_code": "BES",
+            "name": "Bonaire, Sint Eustatius and Saba",
+            "slug": "bonaire-sint-eustatius-and-saba",
+            "lat": 12.21285999999999916099113761447370052337646484375,
+            "lon": -68.2944499999999976580511429347097873687744140625
+        },
+        {
+            "country_id": 70,
+            "iso_country_code": "BA",
+            "world_bank_country_code": "BIH",
+            "name": "Bosnia and Herzegovina",
+            "slug": "bosnia-and-herzegovina",
+            "lat": 44.17999999999999971578290569595992565155029296875,
+            "lon": 17.989999999999998436805981327779591083526611328125
+        },
+        {
+            "country_id": 77,
+            "iso_country_code": "BW",
+            "world_bank_country_code": "BWA",
+            "name": "Botswana",
+            "slug": "botswana",
+            "lat": -22.260000000000001563194018672220408916473388671875,
+            "lon": 23.96000000000000085265128291212022304534912109375
+        },
+        {
+            "country_id": 254,
+            "iso_country_code": "BV",
+            "world_bank_country_code": "BVT",
+            "name": "Bouvet Island",
+            "slug": "bouvet-island",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 74,
+            "iso_country_code": "BR",
+            "world_bank_country_code": "BRA",
+            "name": "Brazil",
+            "slug": "brazil",
+            "lat": -10.8300000000000000710542735760100185871124267578125,
+            "lon": -52.86999999999999744204615126363933086395263671875
+        },
+        {
+            "country_id": 255,
+            "iso_country_code": "IO",
+            "world_bank_country_code": "IOT",
+            "name": "British Indian Ocean Territory",
+            "slug": "british-indian-ocean-territory",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 231,
+            "iso_country_code": "VG",
+            "world_bank_country_code": "BVI",
+            "name": "British Virgin Islands",
+            "slug": "british-virgin-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 75,
+            "iso_country_code": "BN",
+            "world_bank_country_code": "BRN",
+            "name": "Brunei",
+            "slug": "brunei",
+            "lat": 4.480000000000000426325641456060111522674560546875,
+            "lon": 114.8599999999999994315658113919198513031005859375
+        },
+        {
+            "country_id": 69,
+            "iso_country_code": "BG",
+            "world_bank_country_code": "BGR",
+            "name": "Bulgaria",
+            "slug": "bulgaria",
+            "lat": 42.78999999999999914734871708787977695465087890625,
+            "lon": 25.35000000000000142108547152020037174224853515625
+        },
+        {
+            "country_id": 67,
+            "iso_country_code": "BF",
+            "world_bank_country_code": "BFA",
+            "name": "Burkina Faso",
+            "slug": "burkina-faso",
+            "lat": 12.269999999999999573674358543939888477325439453125,
+            "lon": -1.54000000000000003552713678800500929355621337890625
+        },
+        {
+            "country_id": 64,
+            "iso_country_code": "BI",
+            "world_bank_country_code": "BDI",
+            "name": "Burundi",
+            "slug": "burundi",
+            "lat": -3.5099999999999997868371792719699442386627197265625,
+            "lon": 30.07000000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 135,
+            "iso_country_code": "KH",
+            "world_bank_country_code": "KHM",
+            "name": "Cambodia",
+            "slug": "cambodia",
+            "lat": 12.6899999999999995026200849679298698902130126953125,
+            "lon": 105.0400000000000062527760746888816356658935546875
+        },
+        {
+            "country_id": 84,
+            "iso_country_code": "CM",
+            "world_bank_country_code": "CMR",
+            "name": "Cameroon",
+            "slug": "cameroon",
+            "lat": 5.67999999999999971578290569595992565155029296875,
+            "lon": 12.9199999999999999289457264239899814128875732421875
+        },
+        {
+            "country_id": 79,
+            "iso_country_code": "CA",
+            "world_bank_country_code": "CAN",
+            "name": "Canada",
+            "slug": "canada",
+            "lat": 55.37911044801050053365543135441839694976806640625,
+            "lon": -106.2597656250000142108547152020037174224853515625
+        },
+        {
+            "country_id": 222,
+            "iso_country_code": "CV",
+            "world_bank_country_code": "CPV",
+            "name": "Cape Verde",
+            "slug": "cape-verde",
+            "lat": 14.9000000000000003552713678800500929355621337890625,
+            "lon": 23.5
+        },
+        {
+            "country_id": 247,
+            "iso_country_code": "KY",
+            "world_bank_country_code": "KTD",
+            "name": "Cayman Islands",
+            "slug": "cayman-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 78,
+            "iso_country_code": "CF",
+            "world_bank_country_code": "CAF",
+            "name": "Central African Republic",
+            "slug": "central-african-republic",
+            "lat": 6.5,
+            "lon": 20.60000000000000142108547152020037174224853515625
+        },
+        {
+            "country_id": 196,
+            "iso_country_code": "TD",
+            "world_bank_country_code": "TCD",
+            "name": "Chad",
+            "slug": "chad",
+            "lat": 15.3100000000000004973799150320701301097869873046875,
+            "lon": 18.809999999999998721023075631819665431976318359375
+        },
+        {
+            "country_id": 81,
+            "iso_country_code": "CL",
+            "world_bank_country_code": "CHL",
+            "name": "Chile",
+            "slug": "chile",
+            "lat": -35.82000000000000028421709430404007434844970703125,
+            "lon": -70.8900000000000005684341886080801486968994140625
+        },
+        {
+            "country_id": 82,
+            "iso_country_code": "CN",
+            "world_bank_country_code": "CHN",
+            "name": "China",
+            "slug": "china",
+            "lat": 36.590000000000003410605131648480892181396484375,
+            "lon": 103.93999999999999772626324556767940521240234375
+        },
+        {
+            "country_id": 257,
+            "iso_country_code": "CX",
+            "world_bank_country_code": "CXR",
+            "name": "Christmas Island",
+            "slug": "christmas-island",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 258,
+            "iso_country_code": "CC",
+            "world_bank_country_code": "CCK",
+            "name": "Cocos (Keeling) Islands",
+            "slug": "cocos-keeling-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 86,
+            "iso_country_code": "CO",
+            "world_bank_country_code": "COL",
+            "name": "Colombia",
+            "slug": "colombia",
+            "lat": 3.87999999999999989341858963598497211933135986328125,
+            "lon": -72.8700000000000045474735088646411895751953125
+        },
+        {
+            "country_id": 259,
+            "iso_country_code": "KM",
+            "world_bank_country_code": "COM",
+            "name": "Comoros",
+            "slug": "comoros",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 85,
+            "iso_country_code": "CG",
+            "world_bank_country_code": "COG",
+            "name": "Congo, Republic of",
+            "slug": "congo-republic-of",
+            "lat": -0.88000000000000000444089209850062616169452667236328125,
+            "lon": 15.339999999999999857891452847979962825775146484375
+        },
+        {
+            "country_id": 260,
+            "iso_country_code": "CK",
+            "world_bank_country_code": "COK",
+            "name": "Cook Islands",
+            "slug": "cook-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 87,
+            "iso_country_code": "CR",
+            "world_bank_country_code": "CRI",
+            "name": "Costa Rica",
+            "slug": "costa-rica",
+            "lat": 10.0099999999999997868371792719699442386627197265625,
+            "lon": -83.9500000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 118,
+            "iso_country_code": "HR",
+            "world_bank_country_code": "HRV",
+            "name": "Croatia",
+            "slug": "croatia",
+            "lat": 45.1099999999999994315658113919198513031005859375,
+            "lon": 16.64999999999999857891452847979962825775146484375
+        },
+        {
+            "country_id": 338,
+            "iso_country_code": "CW",
+            "world_bank_country_code": "CUW",
+            "name": "Curaçao",
+            "slug": "curacao",
+            "lat": 12.183299999999999130295691429637372493743896484375,
+            "lon": -69
+        },
+        {
+            "country_id": 89,
+            "iso_country_code": "CY",
+            "world_bank_country_code": "CYP",
+            "name": "Cyprus",
+            "slug": "cyprus",
+            "lat": 35.030000000000001136868377216160297393798828125,
+            "lon": 33.28999999999999914734871708787977695465087890625
+        },
+        {
+            "country_id": 90,
+            "iso_country_code": "CZ",
+            "world_bank_country_code": "CZE",
+            "name": "Czech Republic",
+            "slug": "czech-republic",
+            "lat": 49.780000000000001136868377216160297393798828125,
+            "lon": 15.53999999999999914734871708787977695465087890625
+        },
+        {
+            "country_id": 93,
+            "iso_country_code": "DK",
+            "world_bank_country_code": "DNK",
+            "name": "Denmark",
+            "slug": "denmark",
+            "lat": 56.1099999999999994315658113919198513031005859375,
+            "lon": 9.9700000000000006394884621840901672840118408203125
+        },
+        {
+            "country_id": 92,
+            "iso_country_code": "DJ",
+            "world_bank_country_code": "DJI",
+            "name": "Djibouti",
+            "slug": "djibouti",
+            "lat": 11.699999999999999289457264239899814128875732421875,
+            "lon": 42.780000000000001136868377216160297393798828125
+        },
+        {
+            "country_id": 261,
+            "iso_country_code": "DM",
+            "world_bank_country_code": "DMA",
+            "name": "Dominica",
+            "slug": "dominica",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 94,
+            "iso_country_code": "DO",
+            "world_bank_country_code": "DOM",
+            "name": "Dominican Republic",
+            "slug": "dominican-republic",
+            "lat": 18.949999999999999289457264239899814128875732421875,
+            "lon": -70.31999999999999317878973670303821563720703125
+        },
+        {
+            "country_id": 96,
+            "iso_country_code": "EC",
+            "world_bank_country_code": "ECU",
+            "name": "Ecuador",
+            "slug": "ecuador",
+            "lat": -1.45999999999999996447286321199499070644378662109375,
+            "lon": -78.18999999999999772626324556767940521240234375
+        },
+        {
+            "country_id": 97,
+            "iso_country_code": "EG",
+            "world_bank_country_code": "EGY",
+            "name": "Egypt",
+            "slug": "egypt",
+            "lat": 26.410000000000000142108547152020037174224853515625,
+            "lon": 30.030000000000001136868377216160297393798828125
+        },
+        {
+            "country_id": 187,
+            "iso_country_code": "SV",
+            "world_bank_country_code": "SLV",
+            "name": "El Salvador",
+            "slug": "el-salvador",
+            "lat": 13.7799999999999993605115378159098327159881591796875,
+            "lon": -88.68000000000000682121026329696178436279296875
+        },
+        {
+            "country_id": 111,
+            "iso_country_code": "GQ",
+            "world_bank_country_code": "GNQ",
+            "name": "Equatorial Guinea",
+            "slug": "equatorial-guinea",
+            "lat": 1.6399999999999999023003738329862244427204132080078125,
+            "lon": 10.480000000000000426325641456060111522674560546875
+        },
+        {
+            "country_id": 98,
+            "iso_country_code": "ER",
+            "world_bank_country_code": "ERI",
+            "name": "Eritrea",
+            "slug": "eritrea",
+            "lat": 15.2599999999999997868371792719699442386627197265625,
+            "lon": 39.1700000000000017053025658242404460906982421875
+        },
+        {
+            "country_id": 100,
+            "iso_country_code": "EE",
+            "world_bank_country_code": "EST",
+            "name": "Estonia",
+            "slug": "estonia",
+            "lat": 58.63000000000000255795384873636066913604736328125,
+            "lon": 25.989999999999998436805981327779591083526611328125
+        },
+        {
+            "country_id": 101,
+            "iso_country_code": "ET",
+            "world_bank_country_code": "ETH",
+            "name": "Ethiopia",
+            "slug": "ethiopia",
+            "lat": 8.5600000000000004973799150320701301097869873046875,
+            "lon": 39.81000000000000227373675443232059478759765625
+        },
+        {
+            "country_id": 262,
+            "iso_country_code": "FK",
+            "world_bank_country_code": "FLK",
+            "name": "Falkland Islands (Malvinas)",
+            "slug": "falkland-islands-malvinas",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 241,
+            "iso_country_code": "FO",
+            "world_bank_country_code": "FRO",
+            "name": "Faroe Islands",
+            "slug": "faroe-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 234,
+            "iso_country_code": "FJ",
+            "world_bank_country_code": "FJI",
+            "name": "Fiji",
+            "slug": "fiji",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 102,
+            "iso_country_code": "FI",
+            "world_bank_country_code": "FIN",
+            "name": "Finland",
+            "slug": "finland",
+            "lat": 64.43000000000000682121026329696178436279296875,
+            "lon": 26.449999999999999289457264239899814128875732421875
+        },
+        {
+            "country_id": 103,
+            "iso_country_code": "FR",
+            "world_bank_country_code": "FRA",
+            "name": "France",
+            "slug": "france",
+            "lat": 46.530000000000001136868377216160297393798828125,
+            "lon": 2.720000000000000195399252334027551114559173583984375
+        },
+        {
+            "country_id": 115,
+            "iso_country_code": "GF",
+            "world_bank_country_code": "GUF",
+            "name": "French Guiana",
+            "slug": "french-guiana",
+            "lat": 3.859999999999999875655021241982467472553253173828125,
+            "lon": -52.969999999999998863131622783839702606201171875
+        },
+        {
+            "country_id": 263,
+            "iso_country_code": "PF",
+            "world_bank_country_code": "PYF",
+            "name": "French Polynesia",
+            "slug": "french-polynesia",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 264,
+            "iso_country_code": "TF",
+            "world_bank_country_code": "ATF",
+            "name": "French Southern Territories",
+            "slug": "french-southern-territories",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 104,
+            "iso_country_code": "GA",
+            "world_bank_country_code": "GAB",
+            "name": "Gabon",
+            "slug": "gabon",
+            "lat": -0.65000000000000002220446049250313080847263336181640625,
+            "lon": 11.9900000000000002131628207280300557613372802734375
+        },
+        {
+            "country_id": 109,
+            "iso_country_code": "GM",
+            "world_bank_country_code": "GMB",
+            "name": "Gambia",
+            "slug": "gambia",
+            "lat": 13.46000000000000085265128291212022304534912109375,
+            "lon": -15.300000000000000710542735760100185871124267578125
+        },
+        {
+            "country_id": 106,
+            "iso_country_code": "GE",
+            "world_bank_country_code": "GEO",
+            "name": "Georgia",
+            "slug": "georgia",
+            "lat": 42.17999999999999971578290569595992565155029296875,
+            "lon": 43.77000000000000312638803734444081783294677734375
+        },
+        {
+            "country_id": 91,
+            "iso_country_code": "DE",
+            "world_bank_country_code": "DEU",
+            "name": "Germany",
+            "slug": "germany",
+            "lat": 51.0799999999999982946974341757595539093017578125,
+            "lon": 10.5600000000000004973799150320701301097869873046875
+        },
+        {
+            "country_id": 107,
+            "iso_country_code": "GH",
+            "world_bank_country_code": "GHA",
+            "name": "Ghana",
+            "slug": "ghana",
+            "lat": 7.94000000000000039079850466805510222911834716796875,
+            "lon": -1.0100000000000000088817841970012523233890533447265625
+        },
+        {
+            "country_id": 226,
+            "iso_country_code": "GI",
+            "world_bank_country_code": "GIB",
+            "name": "Gibraltar",
+            "slug": "gibraltar",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 112,
+            "iso_country_code": "GR",
+            "world_bank_country_code": "GRC",
+            "name": "Greece",
+            "slug": "greece",
+            "lat": 39.159999999999996589394868351519107818603515625,
+            "lon": 22.879999999999999005240169935859739780426025390625
+        },
+        {
+            "country_id": 113,
+            "iso_country_code": "GL",
+            "world_bank_country_code": "GRL",
+            "name": "Greenland",
+            "slug": "greenland",
+            "lat": 74.7000000000000028421709430404007434844970703125,
+            "lon": -41.2000000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 245,
+            "iso_country_code": "GD",
+            "world_bank_country_code": "GRD",
+            "name": "Grenada",
+            "slug": "grenada",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 265,
+            "iso_country_code": "GP",
+            "world_bank_country_code": "GLP",
+            "name": "Guadeloupe",
+            "slug": "guadeloupe",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 266,
+            "iso_country_code": "GU",
+            "world_bank_country_code": "GUM",
+            "name": "Guam",
+            "slug": "guam",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 114,
+            "iso_country_code": "GT",
+            "world_bank_country_code": "GTM",
+            "name": "Guatemala",
+            "slug": "guatemala",
+            "lat": 15.7400000000000002131628207280300557613372802734375,
+            "lon": -90.18000000000000682121026329696178436279296875
+        },
+        {
+            "country_id": 305,
+            "iso_country_code": "GG",
+            "world_bank_country_code": "GGY",
+            "name": "Guernsey",
+            "slug": "guernsey",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 108,
+            "iso_country_code": "GN",
+            "world_bank_country_code": "GIN",
+            "name": "Guinea",
+            "slug": "guinea",
+            "lat": 10.4000000000000003552713678800500929355621337890625,
+            "lon": -10.660000000000000142108547152020037174224853515625
+        },
+        {
+            "country_id": 110,
+            "iso_country_code": "GW",
+            "world_bank_country_code": "GNB",
+            "name": "Guinea-Bissau",
+            "slug": "guinea-bissau",
+            "lat": 12.0800000000000000710542735760100185871124267578125,
+            "lon": -14.6400000000000005684341886080801486968994140625
+        },
+        {
+            "country_id": 116,
+            "iso_country_code": "GY",
+            "world_bank_country_code": "GUY",
+            "name": "Guyana",
+            "slug": "guyana",
+            "lat": 4.7400000000000002131628207280300557613372802734375,
+            "lon": -58.7000000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 119,
+            "iso_country_code": "HT",
+            "world_bank_country_code": "HTI",
+            "name": "Haiti",
+            "slug": "haiti",
+            "lat": 18.980000000000000426325641456060111522674560546875,
+            "lon": -72.4899999999999948840923025272786617279052734375
+        },
+        {
+            "country_id": 267,
+            "iso_country_code": "HM",
+            "world_bank_country_code": "HMD",
+            "name": "Heard Island and McDonald Islands",
+            "slug": "heard-island-and-mcdonald-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 268,
+            "iso_country_code": "VA",
+            "world_bank_country_code": "VAT",
+            "name": "Holy See (Vatican City State)",
+            "slug": "holy-see-vatican-city-state",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 117,
+            "iso_country_code": "HN",
+            "world_bank_country_code": "HND",
+            "name": "Honduras",
+            "slug": "honduras",
+            "lat": 14.839999999999999857891452847979962825775146484375,
+            "lon": -86.4599999999999937472239253111183643341064453125
+        },
+        {
+            "country_id": 219,
+            "iso_country_code": "HK",
+            "world_bank_country_code": "HKG",
+            "name": "Hong Kong",
+            "slug": "hong-kong",
+            "lat": 22.28229999999999932924765744246542453765869140625,
+            "lon": 114.150000000000005684341886080801486968994140625
+        },
+        {
+            "country_id": 120,
+            "iso_country_code": "HU",
+            "world_bank_country_code": "HUN",
+            "name": "Hungary",
+            "slug": "hungary",
+            "lat": 47.21000000000000085265128291212022304534912109375,
+            "lon": 19.6099999999999994315658113919198513031005859375
+        },
+        {
+            "country_id": 126,
+            "iso_country_code": "IS",
+            "world_bank_country_code": "ISL",
+            "name": "Iceland",
+            "slug": "iceland",
+            "lat": 64.9200000000000017053025658242404460906982421875,
+            "lon": -18.300000000000000710542735760100185871124267578125
+        },
+        {
+            "country_id": 122,
+            "iso_country_code": "IN",
+            "world_bank_country_code": "IND",
+            "name": "India",
+            "slug": "india",
+            "lat": 22.92999999999999971578290569595992565155029296875,
+            "lon": 79.81000000000000227373675443232059478759765625
+        },
+        {
+            "country_id": 121,
+            "iso_country_code": "ID",
+            "world_bank_country_code": "IDN",
+            "name": "Indonesia",
+            "slug": "indonesia",
+            "lat": -1.6599999999999999200639422269887290894985198974609375,
+            "lon": 116.280000000000001136868377216160297393798828125
+        },
+        {
+            "country_id": 125,
+            "iso_country_code": "IQ",
+            "world_bank_country_code": "IRQ",
+            "name": "Iraq",
+            "slug": "iraq",
+            "lat": 32.9500000000000028421709430404007434844970703125,
+            "lon": 43.99000000000000198951966012828052043914794921875
+        },
+        {
+            "country_id": 123,
+            "iso_country_code": "IE",
+            "world_bank_country_code": "IRL",
+            "name": "Ireland",
+            "slug": "ireland",
+            "lat": 53.159999999999996589394868351519107818603515625,
+            "lon": -7.95999999999999996447286321199499070644378662109375
+        },
+        {
+            "country_id": 269,
+            "iso_country_code": "IM",
+            "world_bank_country_code": "IMN",
+            "name": "Isle of Man",
+            "slug": "isle-of-man",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 127,
+            "iso_country_code": "IL",
+            "world_bank_country_code": "ISR",
+            "name": "Israel",
+            "slug": "israel",
+            "lat": 31.410000000000000142108547152020037174224853515625,
+            "lon": 35.21000000000000085265128291212022304534912109375
+        },
+        {
+            "country_id": 128,
+            "iso_country_code": "IT",
+            "world_bank_country_code": "ITA",
+            "name": "Italy",
+            "slug": "italy",
+            "lat": 42.88000000000000255795384873636066913604736328125,
+            "lon": 12.269999999999999573674358543939888477325439453125
+        },
+        {
+            "country_id": 83,
+            "iso_country_code": "IC",
+            "world_bank_country_code": "CIV",
+            "name": "Ivory Coast",
+            "slug": "ivory-coast",
+            "lat": 7.61000000000000031974423109204508364200592041015625,
+            "lon": -5.3300000000000000710542735760100185871124267578125
+        },
+        {
+            "country_id": 129,
+            "iso_country_code": "JM",
+            "world_bank_country_code": "JAM",
+            "name": "Jamaica",
+            "slug": "jamaica",
+            "lat": 18.190000000000001278976924368180334568023681640625,
+            "lon": -77.150000000000005684341886080801486968994140625
+        },
+        {
+            "country_id": 131,
+            "iso_country_code": "JP",
+            "world_bank_country_code": "JPN",
+            "name": "Japan",
+            "slug": "japan",
+            "lat": 36.96000000000000085265128291212022304534912109375,
+            "lon": 138.849999999999994315658113919198513031005859375
+        },
+        {
+            "country_id": 307,
+            "iso_country_code": "JE",
+            "world_bank_country_code": "JEY",
+            "name": "Jersey",
+            "slug": "jersey",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 130,
+            "iso_country_code": "JO",
+            "world_bank_country_code": "JOR",
+            "name": "Jordan",
+            "slug": "jordan",
+            "lat": 31.160000000000000142108547152020037174224853515625,
+            "lon": 37.030000000000001136868377216160297393798828125
+        },
+        {
+            "country_id": 132,
+            "iso_country_code": "KZ",
+            "world_bank_country_code": "KAZ",
+            "name": "Kazakhstan",
+            "slug": "kazakhstan",
+            "lat": 48.18999999999999772626324556767940521240234375,
+            "lon": 67.56000000000000227373675443232059478759765625
+        },
+        {
+            "country_id": 133,
+            "iso_country_code": "KE",
+            "world_bank_country_code": "KEN",
+            "name": "Kenya",
+            "slug": "kenya",
+            "lat": 0.419999999999999984456877655247808434069156646728515625,
+            "lon": 38.00999999999999801048033987171947956085205078125
+        },
+        {
+            "country_id": 270,
+            "iso_country_code": "KI",
+            "world_bank_country_code": "KIR",
+            "name": "Kiribati",
+            "slug": "kiribati",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 271,
+            "iso_country_code": "KV",
+            "world_bank_country_code": "",
+            "name": "Kosovo",
+            "slug": "kosovo",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 137,
+            "iso_country_code": "KW",
+            "world_bank_country_code": "KWT",
+            "name": "Kuwait",
+            "slug": "kuwait",
+            "lat": 29.160000000000000142108547152020037174224853515625,
+            "lon": 47.75999999999999801048033987171947956085205078125
+        },
+        {
+            "country_id": 134,
+            "iso_country_code": "KG",
+            "world_bank_country_code": "KGZ",
+            "name": "Kyrgyzstan",
+            "slug": "kyrgyzstan",
+            "lat": 41.49000000000000198951966012828052043914794921875,
+            "lon": 74.81999999999999317878973670303821563720703125
+        },
+        {
+            "country_id": 138,
+            "iso_country_code": "LA",
+            "world_bank_country_code": "LAO",
+            "name": "Laos",
+            "slug": "laos",
+            "lat": 18.449999999999999289457264239899814128875732421875,
+            "lon": 103.8700000000000045474735088646411895751953125
+        },
+        {
+            "country_id": 146,
+            "iso_country_code": "LV",
+            "world_bank_country_code": "LVA",
+            "name": "Latvia",
+            "slug": "latvia",
+            "lat": 56.85000000000000142108547152020037174224853515625,
+            "lon": 25.1700000000000017053025658242404460906982421875
+        },
+        {
+            "country_id": 139,
+            "iso_country_code": "LB",
+            "world_bank_country_code": "LBN",
+            "name": "Lebanon",
+            "slug": "lebanon",
+            "lat": 33.78999999999999914734871708787977695465087890625,
+            "lon": 35.97999999999999687361196265555918216705322265625
+        },
+        {
+            "country_id": 143,
+            "iso_country_code": "LS",
+            "world_bank_country_code": "LSO",
+            "name": "Lesotho",
+            "slug": "lesotho",
+            "lat": -29.690000000000001278976924368180334568023681640625,
+            "lon": 28.42999999999999971578290569595992565155029296875
+        },
+        {
+            "country_id": 140,
+            "iso_country_code": "LR",
+            "world_bank_country_code": "LBR",
+            "name": "Liberia",
+            "slug": "liberia",
+            "lat": 6.42999999999999971578290569595992565155029296875,
+            "lon": -9.0600000000000004973799150320701301097869873046875
+        },
+        {
+            "country_id": 141,
+            "iso_country_code": "LY",
+            "world_bank_country_code": "LBY",
+            "name": "Libya",
+            "slug": "libya",
+            "lat": 26.989999999999998436805981327779591083526611328125,
+            "lon": 18.17999999999999971578290569595992565155029296875
+        },
+        {
+            "country_id": 272,
+            "iso_country_code": "LI",
+            "world_bank_country_code": "LIE",
+            "name": "Liechtenstein",
+            "slug": "liechtenstein",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 144,
+            "iso_country_code": "LT",
+            "world_bank_country_code": "LTU",
+            "name": "Lithuania",
+            "slug": "lithuania",
+            "lat": 55.35000000000000142108547152020037174224853515625,
+            "lon": 24.059999999999998721023075631819665431976318359375
+        },
+        {
+            "country_id": 145,
+            "iso_country_code": "LU",
+            "world_bank_country_code": "LUX",
+            "name": "Luxembourg",
+            "slug": "luxembourg",
+            "lat": 49.780000000000001136868377216160297393798828125,
+            "lon": 6.29999999999999982236431605997495353221893310546875
+        },
+        {
+            "country_id": 273,
+            "iso_country_code": "MO",
+            "world_bank_country_code": "MAC",
+            "name": "Macao",
+            "slug": "macao",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 151,
+            "iso_country_code": "MK",
+            "world_bank_country_code": "MKD",
+            "name": "Macedonia",
+            "slug": "macedonia",
+            "lat": 41.57000000000000028421709430404007434844970703125,
+            "lon": 21.910000000000000142108547152020037174224853515625
+        },
+        {
+            "country_id": 149,
+            "iso_country_code": "MG",
+            "world_bank_country_code": "MDG",
+            "name": "Madagascar",
+            "slug": "madagascar",
+            "lat": -19.42999999999999971578290569595992565155029296875,
+            "lon": 46.9200000000000017053025658242404460906982421875
+        },
+        {
+            "country_id": 158,
+            "iso_country_code": "MW",
+            "world_bank_country_code": "MWI",
+            "name": "Malawi",
+            "slug": "malawi",
+            "lat": -13.5299999999999993605115378159098327159881591796875,
+            "lon": 34.49000000000000198951966012828052043914794921875
+        },
+        {
+            "country_id": 159,
+            "iso_country_code": "MY",
+            "world_bank_country_code": "MYS",
+            "name": "Malaysia",
+            "slug": "malaysia",
+            "lat": 2.160000000000000142108547152020037174224853515625,
+            "lon": 112.1200000000000045474735088646411895751953125
+        },
+        {
+            "country_id": 238,
+            "iso_country_code": "MV",
+            "world_bank_country_code": "MDV",
+            "name": "Maldives",
+            "slug": "maldives",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 152,
+            "iso_country_code": "ML",
+            "world_bank_country_code": "MLI",
+            "name": "Mali",
+            "slug": "mali",
+            "lat": 17.3299999999999982946974341757595539093017578125,
+            "lon": -3.310000000000000053290705182007513940334320068359375
+        },
+        {
+            "country_id": 227,
+            "iso_country_code": "MT",
+            "world_bank_country_code": "MLT",
+            "name": "Malta",
+            "slug": "malta",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 274,
+            "iso_country_code": "MH",
+            "world_bank_country_code": "MHL",
+            "name": "Marshall Islands",
+            "slug": "marshall-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 275,
+            "iso_country_code": "MQ",
+            "world_bank_country_code": "MTQ",
+            "name": "Martinique",
+            "slug": "martinique",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 157,
+            "iso_country_code": "MR",
+            "world_bank_country_code": "MRT",
+            "name": "Mauritania",
+            "slug": "mauritania",
+            "lat": 20.269999999999999573674358543939888477325439453125,
+            "lon": -10.07000000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 239,
+            "iso_country_code": "MU",
+            "world_bank_country_code": "MUS",
+            "name": "Mauritius",
+            "slug": "mauritius",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 276,
+            "iso_country_code": "YT",
+            "world_bank_country_code": "MYT",
+            "name": "Mayotte",
+            "slug": "mayotte",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 150,
+            "iso_country_code": "MX",
+            "world_bank_country_code": "MEX",
+            "name": "Mexico",
+            "slug": "mexico",
+            "lat": 23.9200000000000017053025658242404460906982421875,
+            "lon": -102.2999999999999971578290569595992565155029296875
+        },
+        {
+            "country_id": 277,
+            "iso_country_code": "FM",
+            "world_bank_country_code": "FSM",
+            "name": "Micronesia, Federated States of",
+            "slug": "micronesia-federated-states-of",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 148,
+            "iso_country_code": "MD",
+            "world_bank_country_code": "MDA",
+            "name": "Moldova",
+            "slug": "moldova",
+            "lat": 47.2000000000000028421709430404007434844970703125,
+            "lon": 28.660000000000000142108547152020037174224853515625
+        },
+        {
+            "country_id": 278,
+            "iso_country_code": "MC",
+            "world_bank_country_code": "MCO",
+            "name": "Monaco",
+            "slug": "monaco",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 154,
+            "iso_country_code": "MN",
+            "world_bank_country_code": "MNG",
+            "name": "Mongolia",
+            "slug": "mongolia",
+            "lat": 46.85000000000000142108547152020037174224853515625,
+            "lon": 103.2699999999999960209606797434389591217041015625
+        },
+        {
+            "country_id": 155,
+            "iso_country_code": "ME",
+            "world_bank_country_code": "MON",
+            "name": "Montenegro",
+            "slug": "montenegro",
+            "lat": 42.78999999999999914734871708787977695465087890625,
+            "lon": 19.449999999999999289457264239899814128875732421875
+        },
+        {
+            "country_id": 279,
+            "iso_country_code": "MS",
+            "world_bank_country_code": "MSR",
+            "name": "Montserrat",
+            "slug": "montserrat",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 147,
+            "iso_country_code": "MA",
+            "world_bank_country_code": "MAR",
+            "name": "Morocco",
+            "slug": "morocco",
+            "lat": 31.8299999999999982946974341757595539093017578125,
+            "lon": -6.0999999999999996447286321199499070644378662109375
+        },
+        {
+            "country_id": 156,
+            "iso_country_code": "MZ",
+            "world_bank_country_code": "MOZ",
+            "name": "Mozambique",
+            "slug": "mozambique",
+            "lat": -17.28999999999999914734871708787977695465087890625,
+            "lon": 35.72999999999999687361196265555918216705322265625
+        },
+        {
+            "country_id": 153,
+            "iso_country_code": "MM",
+            "world_bank_country_code": "MMR",
+            "name": "Myanmar (Burma)",
+            "slug": "myanmar-burma",
+            "lat": 21.1700000000000017053025658242404460906982421875,
+            "lon": 96.6700000000000017053025658242404460906982421875
+        },
+        {
+            "country_id": 160,
+            "iso_country_code": "NA",
+            "world_bank_country_code": "NAM",
+            "name": "Namibia",
+            "slug": "namibia",
+            "lat": -22.10000000000000142108547152020037174224853515625,
+            "lon": 17.410000000000000142108547152020037174224853515625
+        },
+        {
+            "country_id": 280,
+            "iso_country_code": "NR",
+            "world_bank_country_code": "NRU",
+            "name": "Nauru",
+            "slug": "nauru",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 166,
+            "iso_country_code": "NP",
+            "world_bank_country_code": "NPL",
+            "name": "Nepal",
+            "slug": "nepal",
+            "lat": 28.300000000000000710542735760100185871124267578125,
+            "lon": 84.1700000000000017053025658242404460906982421875
+        },
+        {
+            "country_id": 243,
+            "iso_country_code": "AN",
+            "world_bank_country_code": "ANT",
+            "name": "Netherlands Antilles",
+            "slug": "netherlands-antilles",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 233,
+            "iso_country_code": "NC",
+            "world_bank_country_code": "NCL",
+            "name": "New Caledonia",
+            "slug": "new-caledonia",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 167,
+            "iso_country_code": "NZ",
+            "world_bank_country_code": "NZL",
+            "name": "New Zealand",
+            "slug": "new-zealand",
+            "lat": -41.81000000000000227373675443232059478759765625,
+            "lon": 172.900000000000005684341886080801486968994140625
+        },
+        {
+            "country_id": 163,
+            "iso_country_code": "NI",
+            "world_bank_country_code": "NIC",
+            "name": "Nicaragua",
+            "slug": "nicaragua",
+            "lat": 12.8599999999999994315658113919198513031005859375,
+            "lon": -84.900000000000005684341886080801486968994140625
+        },
+        {
+            "country_id": 161,
+            "iso_country_code": "NE",
+            "world_bank_country_code": "NER",
+            "name": "Niger",
+            "slug": "niger",
+            "lat": 17.4200000000000017053025658242404460906982421875,
+            "lon": 9.5800000000000000710542735760100185871124267578125
+        },
+        {
+            "country_id": 162,
+            "iso_country_code": "NG",
+            "world_bank_country_code": "NGA",
+            "name": "Nigeria",
+            "slug": "nigeria",
+            "lat": 9.5800000000000000710542735760100185871124267578125,
+            "lon": 8.2799999999999993605115378159098327159881591796875
+        },
+        {
+            "country_id": 281,
+            "iso_country_code": "NU",
+            "world_bank_country_code": "NIU",
+            "name": "Niue",
+            "slug": "niue",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 282,
+            "iso_country_code": "NF",
+            "world_bank_country_code": "NFK",
+            "name": "Norfolk Island",
+            "slug": "norfolk-island",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 283,
+            "iso_country_code": "MP",
+            "world_bank_country_code": "MNP",
+            "name": "Northern Mariana Islands",
+            "slug": "northern-mariana-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 165,
+            "iso_country_code": "NO",
+            "world_bank_country_code": "NOR",
+            "name": "Norway",
+            "slug": "norway",
+            "lat": 67.469999999999998863131622783839702606201171875,
+            "lon": 15.769999999999999573674358543939888477325439453125
+        },
+        {
+            "country_id": 168,
+            "iso_country_code": "OM",
+            "world_bank_country_code": "OMN",
+            "name": "Oman",
+            "slug": "oman",
+            "lat": 20.42999999999999971578290569595992565155029296875,
+            "lon": 56.1400000000000005684341886080801486968994140625
+        },
+        {
+            "country_id": 169,
+            "iso_country_code": "PK",
+            "world_bank_country_code": "PAK",
+            "name": "Pakistan",
+            "slug": "pakistan",
+            "lat": 29.9200000000000017053025658242404460906982421875,
+            "lon": 69.56000000000000227373675443232059478759765625
+        },
+        {
+            "country_id": 284,
+            "iso_country_code": "PW",
+            "world_bank_country_code": "PLW",
+            "name": "Palau",
+            "slug": "palau",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 285,
+            "iso_country_code": "PS",
+            "world_bank_country_code": "PSE",
+            "name": "Palestine, State of",
+            "slug": "palestine-state-of",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 170,
+            "iso_country_code": "PA",
+            "world_bank_country_code": "PAN",
+            "name": "Panama",
+            "slug": "panama",
+            "lat": 8.57000000000000028421709430404007434844970703125,
+            "lon": -79.909999999999996589394868351519107818603515625
+        },
+        {
+            "country_id": 173,
+            "iso_country_code": "PG",
+            "world_bank_country_code": "PNG",
+            "name": "Papua New Guinea",
+            "slug": "papua-new-guinea",
+            "lat": -6.62000000000000010658141036401502788066864013671875,
+            "lon": 144.830000000000012505552149377763271331787109375
+        },
+        {
+            "country_id": 178,
+            "iso_country_code": "PY",
+            "world_bank_country_code": "PRY",
+            "name": "Paraguay",
+            "slug": "paraguay",
+            "lat": -23.199999999999999289457264239899814128875732421875,
+            "lon": -58.1700000000000017053025658242404460906982421875
+        },
+        {
+            "country_id": 171,
+            "iso_country_code": "PE",
+            "world_bank_country_code": "PER",
+            "name": "Peru",
+            "slug": "peru",
+            "lat": -9.17999999999999971578290569595992565155029296875,
+            "lon": -74.1400000000000005684341886080801486968994140625
+        },
+        {
+            "country_id": 172,
+            "iso_country_code": "PH",
+            "world_bank_country_code": "PHL",
+            "name": "Philippines",
+            "slug": "philippines",
+            "lat": 11.07000000000000028421709430404007434844970703125,
+            "lon": 122.9899999999999948840923025272786617279052734375
+        },
+        {
+            "country_id": 174,
+            "iso_country_code": "PL",
+            "world_bank_country_code": "POL",
+            "name": "Poland",
+            "slug": "poland",
+            "lat": 52.1400000000000005684341886080801486968994140625,
+            "lon": 19.6400000000000005684341886080801486968994140625
+        },
+        {
+            "country_id": 177,
+            "iso_country_code": "PT",
+            "world_bank_country_code": "PRT",
+            "name": "Portugal",
+            "slug": "portugal",
+            "lat": 39.68999999999999772626324556767940521240234375,
+            "lon": -7.7599999999999997868371792719699442386627197265625
+        },
+        {
+            "country_id": 175,
+            "iso_country_code": "PR",
+            "world_bank_country_code": "PRI",
+            "name": "Puerto Rico",
+            "slug": "puerto-rico",
+            "lat": 18.280000000000001136868377216160297393798828125,
+            "lon": -66.31999999999999317878973670303821563720703125
+        },
+        {
+            "country_id": 179,
+            "iso_country_code": "QA",
+            "world_bank_country_code": "QAT",
+            "name": "Qatar",
+            "slug": "qatar",
+            "lat": 25.230000000000000426325641456060111522674560546875,
+            "lon": 51.42999999999999971578290569595992565155029296875
+        },
+        {
+            "country_id": 304,
+            "iso_country_code": "RE",
+            "world_bank_country_code": "REU",
+            "name": "Reunion",
+            "slug": "reunion",
+            "lat": -21.10000000000000142108547152020037174224853515625,
+            "lon": 55.60000000000000142108547152020037174224853515625
+        },
+        {
+            "country_id": 180,
+            "iso_country_code": "RO",
+            "world_bank_country_code": "ROM",
+            "name": "Romania",
+            "slug": "romania",
+            "lat": 45.909999999999996589394868351519107818603515625,
+            "lon": 25.17999999999999971578290569595992565155029296875
+        },
+        {
+            "country_id": 181,
+            "iso_country_code": "RU",
+            "world_bank_country_code": "RUS",
+            "name": "Russia",
+            "slug": "russia",
+            "lat": 61.7000000000000028421709430404007434844970703125,
+            "lon": 96.8599999999999994315658113919198513031005859375
+        },
+        {
+            "country_id": 182,
+            "iso_country_code": "RW",
+            "world_bank_country_code": "RWA",
+            "name": "Rwanda",
+            "slug": "rwanda",
+            "lat": -2.0800000000000000710542735760100185871124267578125,
+            "lon": 30.07000000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 308,
+            "iso_country_code": "BL",
+            "world_bank_country_code": "BLM",
+            "name": "Saint Barthélemy",
+            "slug": "saint-barthelemy",
+            "lat": 22.699999999999999289457264239899814128875732421875,
+            "lon": -83.2000000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 286,
+            "iso_country_code": "SH",
+            "world_bank_country_code": "SHN",
+            "name": "Saint Helena",
+            "slug": "saint-helena",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 287,
+            "iso_country_code": "KN",
+            "world_bank_country_code": "KNA",
+            "name": "Saint Kitts and Nevis",
+            "slug": "saint-kitts-and-nevis",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 244,
+            "iso_country_code": "LC",
+            "world_bank_country_code": "LCA",
+            "name": "Saint Lucia",
+            "slug": "saint-lucia",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 288,
+            "iso_country_code": "MF",
+            "world_bank_country_code": "MAF",
+            "name": "Saint Martin (French part)",
+            "slug": "saint-martin-french-part",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 289,
+            "iso_country_code": "PM",
+            "world_bank_country_code": "SPM",
+            "name": "Saint Pierre and Miquelon",
+            "slug": "saint-pierre-and-miquelon",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 249,
+            "iso_country_code": "VC",
+            "world_bank_country_code": "VCT",
+            "name": "Saint Vincent and the Grenadines",
+            "slug": "saint-vincent-and-the-grenadines",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 290,
+            "iso_country_code": "WS",
+            "world_bank_country_code": "WSM",
+            "name": "Samoa",
+            "slug": "samoa",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 291,
+            "iso_country_code": "SM",
+            "world_bank_country_code": "SMR",
+            "name": "San Marino",
+            "slug": "san-marino",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 292,
+            "iso_country_code": "ST",
+            "world_bank_country_code": "STP",
+            "name": "Sao Tome and Principe",
+            "slug": "sao-tome-and-principe",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 183,
+            "iso_country_code": "SA",
+            "world_bank_country_code": "SAU",
+            "name": "Saudi Arabia",
+            "slug": "saudi-arabia",
+            "lat": 23.92999999999999971578290569595992565155029296875,
+            "lon": 44.67999999999999971578290569595992565155029296875
+        },
+        {
+            "country_id": 185,
+            "iso_country_code": "SN",
+            "world_bank_country_code": "SEN",
+            "name": "Senegal",
+            "slug": "senegal",
+            "lat": 14.449999999999999289457264239899814128875732421875,
+            "lon": -14.230000000000000426325641456060111522674560546875
+        },
+        {
+            "country_id": 189,
+            "iso_country_code": "RS",
+            "world_bank_country_code": "SRB",
+            "name": "Serbia",
+            "slug": "serbia",
+            "lat": 44.0499999999999971578290569595992565155029296875,
+            "lon": 20.989999999999998436805981327779591083526611328125
+        },
+        {
+            "country_id": 891,
+            "iso_country_code": "CS",
+            "world_bank_country_code": "SCG",
+            "name": "Serbia and Montenegro",
+            "slug": "serbia-and-montenegro",
+            "lat": 44.81739999999999923829818726517260074615478515625,
+            "lon": 20.463409999999999655528881703503429889678955078125
+        },
+        {
+            "country_id": 293,
+            "iso_country_code": "SC",
+            "world_bank_country_code": "SYC",
+            "name": "Seychelles",
+            "slug": "seychelles",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 186,
+            "iso_country_code": "SL",
+            "world_bank_country_code": "SLE",
+            "name": "Sierra Leone",
+            "slug": "sierra-leone",
+            "lat": 8.53999999999999914734871708787977695465087890625,
+            "lon": -11.5099999999999997868371792719699442386627197265625
+        },
+        {
+            "country_id": 220,
+            "iso_country_code": "SG",
+            "world_bank_country_code": "SGP",
+            "name": "Singapore",
+            "slug": "singapore",
+            "lat": 1.34030000000000004689582056016661226749420166015625,
+            "lon": 103.7758000000000038198777474462985992431640625
+        },
+        {
+            "country_id": 337,
+            "iso_country_code": "SX",
+            "world_bank_country_code": "SXM",
+            "name": "Sint Maarten (Dutch part)",
+            "slug": "sint-maarten-dutch-part",
+            "lat": 18.066700000000000869704308570362627506256103515625,
+            "lon": -63.0499999999999971578290569595992565155029296875
+        },
+        {
+            "country_id": 191,
+            "iso_country_code": "SK",
+            "world_bank_country_code": "SVK",
+            "name": "Slovakia",
+            "slug": "slovakia",
+            "lat": 48.78999999999999914734871708787977695465087890625,
+            "lon": 19.75
+        },
+        {
+            "country_id": 192,
+            "iso_country_code": "SI",
+            "world_bank_country_code": "SVN",
+            "name": "Slovenia",
+            "slug": "slovenia",
+            "lat": 46.13000000000000255795384873636066913604736328125,
+            "lon": 15.0099999999999997868371792719699442386627197265625
+        },
+        {
+            "country_id": 242,
+            "iso_country_code": "SB",
+            "world_bank_country_code": "SLB",
+            "name": "Solomon Islands",
+            "slug": "solomon-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 188,
+            "iso_country_code": "SO",
+            "world_bank_country_code": "SOM",
+            "name": "Somalia",
+            "slug": "somalia",
+            "lat": 6.04000000000000003552713678800500929355621337890625,
+            "lon": 46.06000000000000227373675443232059478759765625
+        },
+        {
+            "country_id": 215,
+            "iso_country_code": "ZA",
+            "world_bank_country_code": "ZAF",
+            "name": "South Africa",
+            "slug": "south-africa",
+            "lat": -29.050000000000000710542735760100185871124267578125,
+            "lon": 25.219999999999998863131622783839702606201171875
+        },
+        {
+            "country_id": 294,
+            "iso_country_code": "GS",
+            "world_bank_country_code": "SGS",
+            "name": "South Georgia and the South Sandwich Islands",
+            "slug": "south-georgia-and-the-south-sandwich",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 136,
+            "iso_country_code": "KR",
+            "world_bank_country_code": "KOR",
+            "name": "South Korea",
+            "slug": "south-korea",
+            "lat": 36.4500000000000028421709430404007434844970703125,
+            "lon": 127.93999999999999772626324556767940521240234375
+        },
+        {
+            "country_id": 339,
+            "iso_country_code": "SS",
+            "world_bank_country_code": "SSD",
+            "name": "South Sudan",
+            "slug": "south-sudan",
+            "lat": 6.9832999999999998408384271897375583648681640625,
+            "lon": 30.449999999999999289457264239899814128875732421875
+        },
+        {
+            "country_id": 99,
+            "iso_country_code": "ES",
+            "world_bank_country_code": "ESP",
+            "name": "Spain",
+            "slug": "spain",
+            "lat": 40.39999999999999857891452847979962825775146484375,
+            "lon": -3.390000000000000124344978758017532527446746826171875
+        },
+        {
+            "country_id": 142,
+            "iso_country_code": "LK",
+            "world_bank_country_code": "LKA",
+            "name": "Sri Lanka",
+            "slug": "sri-lanka",
+            "lat": 7.57000000000000028421709430404007434844970703125,
+            "lon": 80.8799999999999954525264911353588104248046875
+        },
+        {
+            "country_id": 184,
+            "iso_country_code": "SD",
+            "world_bank_country_code": "SDN",
+            "name": "Sudan",
+            "slug": "sudan",
+            "lat": 13.769999999999999573674358543939888477325439453125,
+            "lon": 30.219999999999998863131622783839702606201171875
+        },
+        {
+            "country_id": 190,
+            "iso_country_code": "SR",
+            "world_bank_country_code": "SUR",
+            "name": "Suriname",
+            "slug": "suriname",
+            "lat": 4.0999999999999996447286321199499070644378662109375,
+            "lon": -55.63000000000000255795384873636066913604736328125
+        },
+        {
+            "country_id": 295,
+            "iso_country_code": "SJ",
+            "world_bank_country_code": "SJM",
+            "name": "Svalbard and Jan Mayen",
+            "slug": "svalbard-and-jan-mayen",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 194,
+            "iso_country_code": "SZ",
+            "world_bank_country_code": "SWZ",
+            "name": "Swaziland",
+            "slug": "swaziland",
+            "lat": -26.64999999999999857891452847979962825775146484375,
+            "lon": 31.699999999999999289457264239899814128875732421875
+        },
+        {
+            "country_id": 193,
+            "iso_country_code": "SE",
+            "world_bank_country_code": "SWE",
+            "name": "Sweden",
+            "slug": "sweden",
+            "lat": 62.75,
+            "lon": 16.8599999999999994315658113919198513031005859375
+        },
+        {
+            "country_id": 80,
+            "iso_country_code": "CH",
+            "world_bank_country_code": "CHE",
+            "name": "Switzerland",
+            "slug": "switzerland",
+            "lat": 46.840000000000003410605131648480892181396484375,
+            "lon": 8.3499999999999996447286321199499070644378662109375
+        },
+        {
+            "country_id": 204,
+            "iso_country_code": "TW",
+            "world_bank_country_code": "TWN",
+            "name": "Taiwan",
+            "slug": "taiwan",
+            "lat": 23.6400000000000005684341886080801486968994140625,
+            "lon": 121
+        },
+        {
+            "country_id": 199,
+            "iso_country_code": "TJ",
+            "world_bank_country_code": "TJK",
+            "name": "Tajikistan",
+            "slug": "tajikistan",
+            "lat": 38.50999999999999801048033987171947956085205078125,
+            "lon": 71.280000000000001136868377216160297393798828125
+        },
+        {
+            "country_id": 205,
+            "iso_country_code": "TZ",
+            "world_bank_country_code": "TZA",
+            "name": "Tanzania",
+            "slug": "tanzania",
+            "lat": -6.4000000000000003552713678800500929355621337890625,
+            "lon": 35
+        },
+        {
+            "country_id": 198,
+            "iso_country_code": "TH",
+            "world_bank_country_code": "THA",
+            "name": "Thailand",
+            "slug": "thailand",
+            "lat": 15.0800000000000000710542735760100185871124267578125,
+            "lon": 101.1400000000000005684341886080801486968994140625
+        },
+        {
+            "country_id": 164,
+            "iso_country_code": "NL",
+            "world_bank_country_code": "NLD",
+            "name": "The Netherlands",
+            "slug": "the-netherlands",
+            "lat": 52.21000000000000085265128291212022304534912109375,
+            "lon": 5.82000000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 296,
+            "iso_country_code": "TL",
+            "world_bank_country_code": "TLS",
+            "name": "Timor-Leste",
+            "slug": "timor-leste",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 197,
+            "iso_country_code": "TG",
+            "world_bank_country_code": "TGO",
+            "name": "Togo",
+            "slug": "togo",
+            "lat": 8.550000000000000710542735760100185871124267578125,
+            "lon": 1.1599999999999999200639422269887290894985198974609375
+        },
+        {
+            "country_id": 297,
+            "iso_country_code": "TK",
+            "world_bank_country_code": "TKL",
+            "name": "Tokelau",
+            "slug": "tokelau",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 298,
+            "iso_country_code": "TO",
+            "world_bank_country_code": "TON",
+            "name": "Tonga",
+            "slug": "tonga",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 201,
+            "iso_country_code": "TT",
+            "world_bank_country_code": "TTO",
+            "name": "Trinidad",
+            "slug": "trinidad",
+            "lat": 10.4199999999999999289457264239899814128875732421875,
+            "lon": -61.28999999999999914734871708787977695465087890625
+        },
+        {
+            "country_id": 202,
+            "iso_country_code": "TN",
+            "world_bank_country_code": "TUN",
+            "name": "Tunisia",
+            "slug": "tunisia",
+            "lat": 34.090000000000003410605131648480892181396484375,
+            "lon": 9.7400000000000002131628207280300557613372802734375
+        },
+        {
+            "country_id": 203,
+            "iso_country_code": "TR",
+            "world_bank_country_code": "TUR",
+            "name": "Turkey",
+            "slug": "turkey",
+            "lat": 39.02000000000000312638803734444081783294677734375,
+            "lon": 35.3599999999999994315658113919198513031005859375
+        },
+        {
+            "country_id": 200,
+            "iso_country_code": "TM",
+            "world_bank_country_code": "TKM",
+            "name": "Turkmenistan",
+            "slug": "turkmenistan",
+            "lat": 39.13000000000000255795384873636066913604736328125,
+            "lon": 59.7000000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 299,
+            "iso_country_code": "TC",
+            "world_bank_country_code": "TCA",
+            "name": "Turks and Caicos Islands",
+            "slug": "turks-and-caicos-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 300,
+            "iso_country_code": "TV",
+            "world_bank_country_code": "TUV",
+            "name": "Tuvalu",
+            "slug": "tuvalu",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 206,
+            "iso_country_code": "UG",
+            "world_bank_country_code": "UGA",
+            "name": "Uganda",
+            "slug": "uganda",
+            "lat": 1.2199999999999999733546474089962430298328399658203125,
+            "lon": 32.52000000000000312638803734444081783294677734375
+        },
+        {
+            "country_id": 207,
+            "iso_country_code": "UA",
+            "world_bank_country_code": "UKR",
+            "name": "Ukraine",
+            "slug": "ukraine",
+            "lat": 49.06000000000000227373675443232059478759765625,
+            "lon": 31.559999999999998721023075631819665431976318359375
+        },
+        {
+            "country_id": 58,
+            "iso_country_code": "AE",
+            "world_bank_country_code": "ARE",
+            "name": "United Arab Emirates",
+            "slug": "united-arab-emirates",
+            "lat": 23.53999999999999914734871708787977695465087890625,
+            "lon": 54.2999999999999971578290569595992565155029296875
+        },
+        {
+            "country_id": 105,
+            "iso_country_code": "GB",
+            "world_bank_country_code": "GBR",
+            "name": "United Kingdom",
+            "slug": "united-kingdom",
+            "lat": 53.8900000000000005684341886080801486968994140625,
+            "lon": -2.589999999999999857891452847979962825775146484375
+        },
+        {
+            "country_id": 209,
+            "iso_country_code": "US",
+            "world_bank_country_code": "USA",
+            "name": "United States",
+            "slug": "united-states",
+            "lat": 39.83332999999999657347871107049286365509033203125,
+            "lon": -98.5833300000000036789060686714947223663330078125
+        },
+        {
+            "country_id": 302,
+            "iso_country_code": "UM",
+            "world_bank_country_code": "UMI",
+            "name": "United States Minor Outlying Islands",
+            "slug": "united-states-minor-outlying-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 208,
+            "iso_country_code": "UY",
+            "world_bank_country_code": "URY",
+            "name": "Uruguay",
+            "slug": "uruguay",
+            "lat": -32.86999999999999744204615126363933086395263671875,
+            "lon": -55.78999999999999914734871708787977695465087890625
+        },
+        {
+            "country_id": 248,
+            "iso_country_code": "VI",
+            "world_bank_country_code": "VIR",
+            "name": "U.S. Virgin Islands",
+            "slug": "us-virgin-islands",
+            "lat": null,
+            "lon": null
+        },
+        {
+            "country_id": 210,
+            "iso_country_code": "UZ",
+            "world_bank_country_code": "UZB",
+            "name": "Uzbekistan",
+            "slug": "uzbekistan",
+            "lat": 41.77000000000000312638803734444081783294677734375,
+            "lon": 63.49000000000000198951966012828052043914794921875
+        },
+        {
+            "country_id": 221,
+            "iso_country_code": "VU",
+            "world_bank_country_code": "VUT",
+            "name": "Vanuatu",
+            "slug": "vanuatu",
+            "lat": 17.10000000000000142108547152020037174224853515625,
+            "lon": 168.69999999999998863131622783839702606201171875
+        },
+        {
+            "country_id": 211,
+            "iso_country_code": "VE",
+            "world_bank_country_code": "VEN",
+            "name": "Venezuela",
+            "slug": "venezuela",
+            "lat": 7.0800000000000000710542735760100185871124267578125,
+            "lon": -65.909999999999996589394868351519107818603515625
+        },
+        {
+            "country_id": 212,
+            "iso_country_code": "VN",
+            "world_bank_country_code": "VNM",
+            "name": "Vietnam",
+            "slug": "vietnam",
+            "lat": 16.690000000000001278976924368180334568023681640625,
+            "lon": 106.409999999999996589394868351519107818603515625
+        },
+        {
+            "country_id": 224,
+            "iso_country_code": "WF",
+            "world_bank_country_code": "WLF",
+            "name": "Wallis and Futuna",
+            "slug": "wallis-and-futuna",
+            "lat": 13.199999999999999289457264239899814128875732421875,
+            "lon": 176.19999999999998863131622783839702606201171875
+        },
+        {
+            "country_id": 213,
+            "iso_country_code": "EH",
+            "world_bank_country_code": "WSH",
+            "name": "Western Sahara",
+            "slug": "western-sahara",
+            "lat": 24.620000000000000994759830064140260219573974609375,
+            "lon": -12.9000000000000003552713678800500929355621337890625
+        },
+        {
+            "country_id": 214,
+            "iso_country_code": "YE",
+            "world_bank_country_code": "YEM",
+            "name": "Yemen",
+            "slug": "yemen",
+            "lat": 15.78999999999999914734871708787977695465087890625,
+            "lon": 47.82000000000000028421709430404007434844970703125
+        },
+        {
+            "country_id": 216,
+            "iso_country_code": "CD",
+            "world_bank_country_code": "COD",
+            "name": "Zaire (Democratic Republic of Congo)",
+            "slug": "zaire-democratic-republic-of-congo",
+            "lat": -2.9199999999999999289457264239899814128875732421875,
+            "lon": 23.769999999999999573674358543939888477325439453125
+        },
+        {
+            "country_id": 217,
+            "iso_country_code": "ZM",
+            "world_bank_country_code": "ZMB",
+            "name": "Zambia",
+            "slug": "zambia",
+            "lat": -13.5,
+            "lon": 27.949999999999999289457264239899814128875732421875
+        },
+        {
+            "country_id": 218,
+            "iso_country_code": "ZW",
+            "world_bank_country_code": "ZWE",
+            "name": "Zimbabwe",
+            "slug": "zimbabwe",
+            "lat": -19.059999999999998721023075631819665431976318359375,
+            "lon": 30.059999999999998721023075631819665431976318359375
+        }
+    ],
+    "params": null,
+    "type": "Country",
+    "pagination": {}
+}
