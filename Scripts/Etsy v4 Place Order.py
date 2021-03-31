@@ -32,10 +32,7 @@ def placeOrder(order_num,endpoint):
         'Content-Type': 'application/json'
     } 
 
-    orders_url = "https://openapi.etsy.com/v2/shops/YOUR_SHOP_HERE/receipts/open?limit=10"
-
     ## headers for Etsy authentication
-
     key = 'ETSY_API_KEY'
     secret = 'ETSY_API_SECRET'
     oauth_token = "ETSY_OAUTH_TOKEN"
@@ -45,24 +42,25 @@ def placeOrder(order_num,endpoint):
                             oauth_token, oauth_token_secret,
                             signature_type='auth_header')
 
+    orders_url = "https://openapi.etsy.com/v2/shops/YOUR_SHOP_HERE/receipts/open?limit=10"
+    
+    #make API call
     response = requests.get(orders_url, auth=etsy_oauth)
     orders=response.json()
+    order_detail=orders['results'][order_num]
 
-    #Gathering data from most recent order
-
-    order_detail=orders['results']
-
-    name=order_detail[order_num]['name']
-    firstline=order_detail[order_num]['first_line']
-    secondline=order_detail[order_num]['second_line']
-    city=order_detail[order_num]['city']
-    state=order_detail[order_num]['state']
-    zipcode=order_detail[order_num]['zip']
-    country_id=order_detail[order_num]['country_id']
-    total=order_detail[order_num]['grandtotal']
-    receipt_id=order_detail[order_num]['receipt_id']
-    shipping_method=order_detail[order_num]['shipping_details']['shipping_method']
-    order_date=order_detail[order_num]['creation_tsz']
+    #Gathering data from selected order
+    name=order_detail['name']
+    firstline=order_detail['first_line']
+    secondline=order_detail['second_line']
+    city=order_detail['city']
+    state=order_detail['state']
+    zipcode=order_detail['zip']
+    country_id=order_detail['country_id']
+    total=order_detail['grandtotal']
+    receipt_id=order_detail['receipt_id']
+    shipping_method=order_detail['shipping_details']['shipping_method']
+    order_date=order_detail['creation_tsz']
 
     #country lookup
     country_df = pd.DataFrame(countries["results"])
@@ -78,7 +76,6 @@ def placeOrder(order_num,endpoint):
         shipping_method
 
     #call the Etsy Receipt based on transaction data
-
     receipt_url = ("https://openapi.etsy.com/v2/receipts/"+str(receipt_id)+"/transactions")
     response = requests.get(receipt_url, auth=etsy_oauth)
     receipts=response.json()
@@ -86,13 +83,10 @@ def placeOrder(order_num,endpoint):
     ##check if order is a digital file
     digital=receipts['results'][0]['is_digital']
 
-
     #if not digital then store the listing details
     if digital == False:
 
         ##Place Pwinty Order
-        
-
         for i in range(0,len(receipts['results'])):
                 listing_id=receipts['results'][i]['listing_id'] #required for excel look ups
                 size=receipts['results'][i]['variations'][0]['formatted_value']
@@ -104,7 +98,6 @@ def placeOrder(order_num,endpoint):
                 link_row=link_excel.loc[link_excel['EtsyID'] == listing_id].index[0]
                 link=link_excel['Link'][link_row]
                 viz_title=link_excel['Viz'][link_row]
-
         
         payload = {
                 'merchantReference': receipt_id,
