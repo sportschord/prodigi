@@ -93,6 +93,8 @@ def placeOrder(order_num,endpoint):
                 framed=receipts['results'][i]['variations'][1]['formatted_value']
                 quant=receipts['results'][i]['quantity']
                 print_size=size[1:3] #extracts A2 from (A2) 16.5 x 23.4 inches
+
+                #uses excel look up table to map products
                 print_frame=size_excel.loc[size_excel['Framed'].str.contains(framed)&size_excel['Etsy'].str.contains(print_size)].index[0]
                 sku=size_excel['Pwinty'][print_frame]
                 link_row=link_excel.loc[link_excel['EtsyID'] == listing_id].index[0]
@@ -154,18 +156,15 @@ def placeOrder(order_num,endpoint):
             +'\nPrint: '+viz_title
             +'\nItem Details: '+ size,framed 
             +'\nRevenue: £'+total
-            +'\nItem Cost : £'
-            +'\nShipping Cost : £'
-            +'\nProfit before Etsy Fees: £'
             +'\nShipping Method : '+shipping_method
             +'\nStatus: '+status)
 
     if status=='Created' and endpoint=='pwinty':
-        order_df = pd.read_excel (r'/Users/jamesmbp/Google Drive/Sports Chord/Etsy/Automation/Orders.xlsx',sheet_name='Orders')
+        order_df = pd.read_excel (r'YOUR-FILEPATH.xlsx',sheet_name='Orders')
         i=len(order_df)
         row=list((10000+i,order_date,receipt_id,999,name,viz_title,size,framed,total))
         order_df.loc[i] = row
-        order_df.to_excel(r'/Users/jamesmbp/Google Drive/Sports Chord/Etsy/Automation/Orders.xlsx',sheet_name='Orders',index=False)  
+        order_df.to_excel(r'/Your-FILEPATH.xlsx',sheet_name='Orders',index=False)  
 
 
 # %%
