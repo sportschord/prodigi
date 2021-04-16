@@ -17,6 +17,10 @@ import yagmail
 
 ## Check for status changes
 
+carriers=pd.read_csv('/PATH TO CARRIERS/carriers.csv')
+data=pd.read_csv('PATH TO CURRENT STATUS.csv')
+newsave='/PATH TO CURRENT STATUS./status.csv'
+
 endpoint='pwinty'
 
 if endpoint=='sandbox':
