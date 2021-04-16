@@ -21,7 +21,7 @@ def placeOrder(order_num,endpoint):
         'X-API-Key': 'SANDBOX_API_KEY',
         'Content-Type': 'application/json'
     }    
-    elif endpoint=='pwinty':
+    elif endpoint=='prodigi':
         url_start="https://api.prodigi.com/v4.0/Orders"
         pwinty_headers = {
         'X-API-Key': 'PRODIGI_API_KEY',
@@ -155,7 +155,7 @@ def placeOrder(order_num,endpoint):
             +'\nShipping Method : '+shipping_method
             +'\nStatus: '+status)
 
-    if status=='Created' and endpoint=='pwinty':
+    if status=='Created' and endpoint=='prodigi':
         order_df = pd.read_excel (r'YOUR-FILEPATH.xlsx',sheet_name='Orders')
         i=len(order_df)
         row=list((10000+i,order_date,receipt_id,999,name,viz_title,size,framed,total))
