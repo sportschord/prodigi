@@ -11,13 +11,9 @@ import pandas as pd
 from pandas.io.json import json_normalize
 
 def placeOrder(order_num,endpoint):
-    link_excel = pd.read_excel (r'/Users/jamesmbp/Google Drive/Sports Chord/Etsy/Automation/Print IDs.xlsx',sheet_name='Gdrive Links')
-    size_excel = pd.read_excel (r'/Users/jamesmbp/Google Drive/Sports Chord/Etsy/Automation/Print IDs.xlsx',sheet_name='Sizes')
-    countries = json.load(open('/Users/jamesmbp/Google Drive/Sports Chord/Etsy/Automation/Countries.json'))
-
-    #order_num=1
-
-    #endpoint='sandbox'
+    link_excel = pd.read_excel (r'/YOURPATHHERE/Print IDs.xlsx',sheet_name='Gdrive Links')
+    size_excel = pd.read_excel (r'/YOURPATHHERE/Print IDs.xlsx',sheet_name='Sizes')
+    countries = json.load(open('/YOURPATHHERE/Countries.json'))
 
     if endpoint=='sandbox':
         url_start="https://api.sandbox.prodigi.com/v4.0/Orders"
