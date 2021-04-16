@@ -17,13 +17,13 @@ def placeOrder(order_num,endpoint):
 
     if endpoint=='sandbox':
         url_start="https://api.sandbox.prodigi.com/v4.0/Orders"
-        pwinty_headers = {
+        prodigi_headers = {
         'X-API-Key': 'SANDBOX_API_KEY',
         'Content-Type': 'application/json'
     }    
     elif endpoint=='prodigi':
         url_start="https://api.prodigi.com/v4.0/Orders"
-        pwinty_headers = {
+        prodigi_headers = {
         'X-API-Key': 'PRODIGI_API_KEY',
         'Content-Type': 'application/json'
     } 
@@ -82,7 +82,7 @@ def placeOrder(order_num,endpoint):
     #if not digital then store the listing details
     if digital == False:
 
-        ##Place Pwinty Order
+        ##Place prodigi Order
         for i in range(0,len(receipts['results'])):
                 listing_id=receipts['results'][i]['listing_id'] #required for excel look ups
                 size=receipts['results'][i]['variations'][0]['formatted_value']
@@ -92,7 +92,7 @@ def placeOrder(order_num,endpoint):
 
                 #uses excel look up table to map products
                 print_frame=size_excel.loc[size_excel['Framed'].str.contains(framed)&size_excel['Etsy'].str.contains(print_size)].index[0]
-                sku=size_excel['Pwinty'][print_frame]
+                sku=size_excel['prodigi'][print_frame]
                 link_row=link_excel.loc[link_excel['EtsyID'] == listing_id].index[0]
                 link=link_excel['Link'][link_row]
                 viz_title=link_excel['Viz'][link_row]
@@ -143,7 +143,7 @@ def placeOrder(order_num,endpoint):
             payload['items'][i]['attributes']={'color':'black'}
 
 
-        response = requests.post(url_start, headers=pwinty_headers, json = payload)
+        response = requests.post(url_start, headers=prodigi_headers, json = payload)
 
         status=response.json()['outcome']
 
